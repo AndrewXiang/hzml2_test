@@ -36,7 +36,9 @@
     } 
 %>	
 		<center><h3>修改密码</h3></center>			
-		<form name="modifyPasswd" method="post" action="Passwd_process.jsp" align="center">
+		<!-- <form name="modifyPasswd" method="post" action="Passwd_process.jsp" align="center"> 提示有误的地方 -->
+	  <form name="modifyPasswd" method="post" action="Passwd_process.jsp" >
+		
 			<table width="40%" border="o.2" cellpadding="0" cellspacing="0" align="center">				
 					<tr class="COL_A">
 						<td width="23%" class="TABLE_HEAD" align="center" >用户名</td>

@@ -20,7 +20,6 @@
   <div align="center">
                <!--登录界面代码-->                   
                <!-- form action="login_process.jsp" method="post" style="position:absolute; left:580px; top:240px;" -->
-        
         <form action="login_process.jsp" method="post" style="position:relative; left:-10px; top:220px;  width:100%; height:100%" >
                  <!-- 主要是涉及提交信息，就要用到form，action决定了提交给哪个文件处理 -->
             <table align="center">
